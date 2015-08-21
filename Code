@@ -7,14 +7,14 @@
             </p>
           </div><!--end .accordion-section-content-->
         </div><!--end .accordion-section-->
-        <div class="accordion-section">
+        <div class="accordion-section"><!--Begin Accordion Sectoin-------------->
           <a class="accordion-section-title" href="#accordion-2">Title 2</a>
           <div id="accordion-2" class="accordion-section-content">
             <p>
               Content
             </p>
           </div><!--end .accordion-section-content-->
-        </div><!--end .accordion-section-->
+        </div><!--end .accordion-section---------------------------------------->
         <div class="accordion-section">
           <a class="accordion-section-title" href="#accordion-3">Title 3</a>
           <div id="accordion-3" class="accordion-section-content">
